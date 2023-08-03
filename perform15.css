@@ -1,0 +1,26 @@
+#division3{
+
+
+ width: 300px;
+
+border: 5px solid red; margin-top: 20px;
+
+margin-left: 20px;
+
+outline:5px dashed blue; outline-offset: 10px;
+
+
+
+}
+
+
+
+.p
+{
+color: #fff; padding: 5px;
+
+direction: ltr; unicode-bidi: bidi-override;
+border: 2px solid red;
+
+background-color: black;
+}
